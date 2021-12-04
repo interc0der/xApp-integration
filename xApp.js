@@ -1,6 +1,6 @@
 async function xApp_init() {
 
-    const xummApiKey = "76c6fc5c-7fba-4e7e-a733-488f03bc1558";
+    const xummApiKey = "XXXX";
 
     const urlParams = new URLSearchParams(window.location.search);
     const oneTimeToken = urlParams.get('xAppToken') || '';
